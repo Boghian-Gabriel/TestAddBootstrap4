@@ -4,12 +4,12 @@
 
 :arrow_forward: Installation steps:
 
-    :one: Create ASP.NET MVC 5 application.
+   :one: Create ASP.NET MVC 5 application.
   
-    :two: Go to Manage NuGet Packages (right click on the project in Solution Explorer).
+   :two: Go to Manage NuGet Packages (right click on the project in Solution Explorer).
   
-    :three: Update all dependents already installed.
+   :three: Update all dependents already installed.
   
-    :four: Add boostrap classes 4: https://getbootstrap.com/docs/4.6/getting-started/introduction/
+   :four: Add boostrap classes 4: https://getbootstrap.com/docs/4.6/getting-started/introduction/
   
-    :five: Optional you can add theme: https://bootswatch.com/default/ -> (:exclamation: These themes only support boostrap 4).
+   :five: Optional you can add theme: https://bootswatch.com/default/ -> (:exclamation: These themes only support boostrap 4).
