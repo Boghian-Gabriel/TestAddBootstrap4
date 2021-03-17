@@ -2,13 +2,14 @@
 
 :heavy_plus_sign: Add Bootstrap 4 for ASP.NET MVC 5. 
 
-Installation steps:
-  :large_blue_circle: Create ASP.NET MVC 5 application.
+:arrow_forward: Installation steps:
+
+  :one: Create ASP.NET MVC 5 application.
   
-  :large_blue_circle: Go to Manage NuGet Packages (right click on the project in Solution Explorer).
+  :two: Go to Manage NuGet Packages (right click on the project in Solution Explorer).
   
-  :large_blue_circle: Update all dependents already installed.
+  :three: Update all dependents already installed.
   
-  :large_blue_circle: add boostrap classes 4.
+  :for: Add boostrap classes 4: https://getbootstrap.com/docs/4.6/getting-started/introduction/
   
-  :large_blue_circle: Optional you can add theme: https://bootswatch.com/default/ -> (:exclamation: These themes only support boostrap 4).
+  :five: Optional you can add theme: https://bootswatch.com/default/ -> (:exclamation: These themes only support boostrap 4).
